@@ -1,5 +1,5 @@
 Oto nasza wspólna historia
 linia 2
-line 4
 line 5
+line 4
 line 6
